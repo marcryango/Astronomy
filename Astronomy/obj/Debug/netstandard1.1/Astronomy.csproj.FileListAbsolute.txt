@@ -1,0 +1,16 @@
+C:\Users\gom\Desktop\CrossPlatform Dev\205\Ex1\Astronomy\obj\Debug\netstandard1.1\Astronomy.csproj.CoreCompileInputs.cache
+C:\Users\gom\Desktop\CrossPlatform Dev\205\Ex1\Astronomy\obj\Debug\netstandard1.1\Astronomy.App.xaml.g.cs
+C:\Users\gom\Desktop\CrossPlatform Dev\205\Ex1\Astronomy\obj\Debug\netstandard1.1\Astronomy.MainPage.xaml.g.cs
+C:\Users\gom\Desktop\CrossPlatform Dev\205\Ex1\Astronomy\obj\Debug\netstandard1.1\Astronomy.Pages.AboutPage.xaml.g.cs
+C:\Users\gom\Desktop\CrossPlatform Dev\205\Ex1\Astronomy\obj\Debug\netstandard1.1\Astronomy.Pages.AstronomicalBodiesPage.xaml.g.cs
+C:\Users\gom\Desktop\CrossPlatform Dev\205\Ex1\Astronomy\obj\Debug\netstandard1.1\Astronomy.Pages.AstronomicalBodyPage.xaml.g.cs
+C:\Users\gom\Desktop\CrossPlatform Dev\205\Ex1\Astronomy\obj\Debug\netstandard1.1\Astronomy.Pages.MoonPhasePage.xaml.g.cs
+C:\Users\gom\Desktop\CrossPlatform Dev\205\Ex1\Astronomy\obj\Debug\netstandard1.1\Astronomy.Pages.PersonalizePage.xaml.g.cs
+C:\Users\gom\Desktop\CrossPlatform Dev\205\Ex1\Astronomy\obj\Debug\netstandard1.1\Astronomy.Pages.SunrisePage.xaml.g.cs
+C:\Users\gom\Desktop\CrossPlatform Dev\205\Ex1\Astronomy\obj\Debug\netstandard1.1\Astronomy.AssemblyInfoInputs.cache
+C:\Users\gom\Desktop\CrossPlatform Dev\205\Ex1\Astronomy\obj\Debug\netstandard1.1\Astronomy.AssemblyInfo.cs
+C:\Users\gom\Desktop\CrossPlatform Dev\205\Ex1\Astronomy\obj\Debug\netstandard1.1\Astronomy.dll
+C:\Users\gom\Desktop\CrossPlatform Dev\205\Ex1\Astronomy\obj\Debug\netstandard1.1\Astronomy.pdb
+C:\Users\gom\Desktop\CrossPlatform Dev\205\Ex1\Astronomy\bin\Debug\netstandard1.1\Astronomy.deps.json
+C:\Users\gom\Desktop\CrossPlatform Dev\205\Ex1\Astronomy\bin\Debug\netstandard1.1\Astronomy.dll
+C:\Users\gom\Desktop\CrossPlatform Dev\205\Ex1\Astronomy\bin\Debug\netstandard1.1\Astronomy.pdb
